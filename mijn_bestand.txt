@@ -1,2 +1,4 @@
 Dit is een testbestand.
 Dit bestand wordt geüpdatet en geüpload naar Git.
+
+Nieuwe tekst
